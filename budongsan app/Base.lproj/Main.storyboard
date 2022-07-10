@@ -326,10 +326,10 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="PI5-ZE-VYP" firstAttribute="centerX" secondItem="zda-VI-84n" secondAttribute="centerX" id="G5S-t3-yIf"/>
-                            <constraint firstItem="8os-dL-73u" firstAttribute="leading" secondItem="zda-VI-84n" secondAttribute="leading" id="Hhc-G4-PZ8"/>
+                            <constraint firstItem="8os-dL-73u" firstAttribute="leading" secondItem="yof-bK-pvi" secondAttribute="leading" id="Hhc-G4-PZ8"/>
                             <constraint firstItem="zda-VI-84n" firstAttribute="top" secondItem="8os-dL-73u" secondAttribute="top" id="TG8-Zf-PHV"/>
                             <constraint firstItem="PI5-ZE-VYP" firstAttribute="top" secondItem="8os-dL-73u" secondAttribute="bottom" constant="-36" id="ZQg-iQ-TIM"/>
-                            <constraint firstItem="8os-dL-73u" firstAttribute="trailing" secondItem="zda-VI-84n" secondAttribute="trailing" id="r3S-Mg-pCx"/>
+                            <constraint firstItem="8os-dL-73u" firstAttribute="trailing" secondItem="yof-bK-pvi" secondAttribute="trailing" id="r3S-Mg-pCx"/>
                             <constraint firstItem="PI5-ZE-VYP" firstAttribute="leading" secondItem="zda-VI-84n" secondAttribute="leading" constant="22" id="thv-cE-0Qc"/>
                         </constraints>
                     </view>
